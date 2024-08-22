@@ -1,0 +1,3 @@
+- [ゼロから始めるStorybook入門(React編) | アールエフェクト](https://reffect.co.jp/html/storybook)
+- Buttonの下の階層にあるLarge, Primary,…などをStorybookではストーリーと呼ぶ
+- ストーリーはComponent Story Format(CSF)というフォーマットを利用して記述する
